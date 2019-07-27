@@ -4,6 +4,8 @@
     <RootType FullName="Windows.UI.Xaml.Application" />
     <RootType FullName="Windows.UI.Xaml.Controls.Page">
       <RootProperty Name="Background" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
       <RootProperty Name="Content" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
@@ -35,7 +37,6 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.GridView">
       <RootProperty Name="Margin" />
-      <RootProperty Name="Height" />
     </RootType>
     <RootType FullName="UwpStarterLearning.MainPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">

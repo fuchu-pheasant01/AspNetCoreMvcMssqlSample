@@ -7,6 +7,12 @@ Imports Windows.UI.Popups
 Public NotInheritable Class MainPage
     Inherits Page
 
+    Private Sub MainPage1_Loaded(sender As Object, e As RoutedEventArgs) Handles MainPage1.Loaded
+
+        Dim result As Boolean = Windows.UI.ViewManagement.ApplicationView.GetForCurrentView().TryResizeView(New Size() With {.Width = 800, .Height = 600})
+
+    End Sub
+
     Private Sub ButtonDbRead_Click(sender As Object, e As RoutedEventArgs) Handles ButtonDbRead.Click
 
         Dim cn As New System.Data.SqlClient.SqlConnection()
@@ -64,9 +70,4 @@ Public NotInheritable Class MainPage
 
     End Sub
 
-    Private Sub MainPage1_Loaded(sender As Object, e As RoutedEventArgs) Handles MainPage1.Loaded
-
-        Dim result As Boolean = Windows.UI.ViewManagement.ApplicationView.GetForCurrentView().TryResizeView(New Size() With {.Width = 800, .Height = 600})
-
-    End Sub
 End Class

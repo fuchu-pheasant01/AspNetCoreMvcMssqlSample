@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Workspace\DotNet\UwpStarterLearning\UwpStarterLearning\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-07-26T12:49:49.627</Modified>
+      <Modified>2019-07-27T10:45:59.242</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Workspace\DotNet\UwpStarterLearning\UwpStarterLearning\bin\x86\Debug\UwpStarterLearning.exe">
       <PackagePath>entrypoint\UwpStarterLearning.exe</PackagePath>
-      <Modified>2019-07-26T12:49:49.279</Modified>
+      <Modified>2019-07-27T10:45:58.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,19 +86,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\DotNet\UwpStarterLearning\UwpStarterLearning\bin\x86\Debug\UwpStarterLearning.xr.xml">
       <PackagePath>UwpStarterLearning.xr.xml</PackagePath>
-      <Modified>2019-07-26T12:44:30.264</Modified>
+      <Modified>2019-07-27T02:22:30.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\DotNet\UwpStarterLearning\UwpStarterLearning\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-07-26T12:49:49.149</Modified>
+      <Modified>2019-07-27T10:45:58.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\DotNet\UwpStarterLearning\UwpStarterLearning\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2019-07-26T12:49:49.149</Modified>
+      <Modified>2019-07-27T10:45:58.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\DotNet\UwpStarterLearning\UwpStarterLearning\bin\x86\Debug\Views\WindowTimer.xbf">
       <PackagePath>Views\WindowTimer.xbf</PackagePath>
-      <Modified>2019-07-26T12:49:49.149</Modified>
+      <Modified>2019-07-27T10:45:58.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -110,7 +110,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Workspace\DotNet\UwpStarterLearning\UwpStarterLearning\bin\x86\Debug\Core\UwpStarterLearning.exe">
       <PackagePath>UwpStarterLearning.exe</PackagePath>
-      <Modified>2019-07-26T12:49:49.627</Modified>
+      <Modified>2019-07-27T10:45:59.227</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
