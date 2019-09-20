@@ -2,7 +2,7 @@
 ___
 ### 環境
 ```
-開発環境：Microsoft Visual Studio 2019 Community Edition 16.2.3  
+開発環境：Microsoft Visual Studio 2019 Community Edition 16.2.5  
 言語：Visual Basic .NET 15.0  
 デスクトップ：UWPアプリケーション
 デベロッパーSDK：.NET Framework 4.8 SDK  
